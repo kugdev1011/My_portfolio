@@ -7,8 +7,8 @@ import {
 } from './constants/pageData';
 
 const configs = {
-  title: 'Tomas Gonzalez',
-  subTitle: 'Dev portfolio.',
+  title: 'Raihan Hafiz',
+  subTitle: 'Software Engineer',
   stars: {
     maxSize: 20,
     emissionIntencity: 40,
@@ -16,7 +16,7 @@ const configs = {
     // url: 'icons/three-js-logo.png',
     dencity: 900,
   },
-  navTitle: 'Tomas Gonzalez portfolio.',
+  navTitle: 'Raihan Hafiz portfolio.',
   relevantStops: STOPS,
   pages: [
     {
@@ -128,10 +128,6 @@ const configs = {
         topPadding: 0.2,
         scale: 0.3,
         items: [
-          {
-            url: 'icons/twitter.png',
-            websiteURL: 'https://twitter.com/kiter_js',
-          },
           {
             url: 'icons/linkedin.png',
             websiteURL:
